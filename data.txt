@@ -1,0 +1,6 @@
+IntelliJ IDEA is an Integrated Development Environment (IDE) for Java and Kotlin designed to maximize developer productivity. It does the routine and repetitive tasks for you by providing clever code completion, static code analysis, and refactorings, and lets you focus on the bright side of software development, making it not only productive but also an enjoyable experience.
+You can browse JetBrains Marketplace to find an official plugin that adds support for almost any language, framework or technology used today, or for third-party plugins. For more information about managing plugins, refer to Install plugins.
+Development of modern applications involves using multiple languages, tools, frameworks, and technologies. IntelliJ IDEA is designed as an IDE for JVM languages but numerous plugins can extend it to provide a polyglot experience.
+If you want more information about a symbol at caret, for example, where it comes from or what its type is, the Quick Documentation is your friend. Press Ctrl
+0Q
+ to invoke it, and you will see a popup with these details. If you don’t need the full info, then use the Type Info action instead: it only shows the type of the selected expression, but doesn't take up that much of screen space.
